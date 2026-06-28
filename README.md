@@ -17,6 +17,7 @@ After analyzing the data, here are the top findings:
 ## 🛠️ Tools Used
 - **GitHub** (For hosting and portfolio showcase)
 - **Data Analytics Concepts** (Data collection and structured formatting)
-
+## 📊 Power BI Dashboard Preview
+![Dashboard Screenshot](dashboardss.png)
 ---
 *Created with ❤️ as part of my Data Analyst journey!*
